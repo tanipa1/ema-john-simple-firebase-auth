@@ -1,0 +1,27 @@
+.review-container{
+    margin: 50px auto;
+}
+.checkout{
+    background-color: #FF9900;
+    border-radius: 4px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    color: white;
+    border: 0px;
+    border-radius: 4px;
+    margin-top: 16px;
+}
+.proceed-link{
+    text-decoration: none;
+    
+}
+.proceed{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
